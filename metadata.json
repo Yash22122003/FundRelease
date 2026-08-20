@@ -1,0 +1,7 @@
+{
+  "name": "FundRelease",
+  "description": "Disaster relief fund allocation and resource logistics command center with Delay-Tolerant Networking (DTN) store-carry-forward offline synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
